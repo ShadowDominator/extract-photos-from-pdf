@@ -18,4 +18,5 @@ python app.py
 ```
 4. Example
 
-![image](https://github.com/ShadowDominator/extract-photos-from-pdf/assets/134040467/0d56a7aa-bc08-47f5-8832-f8459b128268)
+![image](https://github.com/ShadowDominator/extract-photos-from-pdf/assets/134040467/7a57eaa8-4aae-4d39-a779-833c8f0eac03)
+
