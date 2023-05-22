@@ -2,6 +2,8 @@
 
 This repository contains a Python script that extracts photos from a PDF file and saves them as images. It utilizes the `pdf2image` library to convert each page of the PDF into an image file.
 
+[Demo](https://huggingface.co/spaces/ShadowDominator/extract-photos-from-pdf)
+
 ## Installation
 
 1. Clone the repository:
