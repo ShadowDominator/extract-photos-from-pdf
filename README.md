@@ -14,7 +14,7 @@ pip install -r requirements.txt
 ```
 3. Usage
 ```shell
-python app.py
+gradio app.py
 ```
 4. Example
 
